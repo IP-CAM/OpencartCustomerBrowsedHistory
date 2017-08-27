@@ -7,6 +7,9 @@ This installation instructions assume that you are running either fresh or custo
 
 1. Using the Extension Installer
 ---------------------------------------------------
+Dowload the OpencartCustomerBrowsed master zip file.
+Rename the OpencartCustomerBrowsed master zip file to customerbrowsed.ocmod.
+Then continue as shown below:
 1) Login to your OpenCart admin panel. Once you do that, go to Extensions -> Extension Installer.
 2) Click on the Upload button.
 3) Find customerbrowsed.ocmod.zip on your computer and load it.
